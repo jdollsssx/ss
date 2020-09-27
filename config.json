@@ -1,0 +1,33 @@
+{
+    "port": "8080",
+    "tokenSecret": "YOUR BOT'S TOKEN SECRET GOES HERE",
+    "clientSecret": "YOUR CLIENT SECRET GOES HERE",
+    "callbackURL": "YOUR CALLBACK URL GOES HERE",
+    "owner": "OWNER ID GOES HERE",
+    "inviteLink": "YOUR BOT'S INVITE LINK HERE",
+    "supportServer": "YOUR SUPPORT SERVER GOES HERE",
+    "introText": "You can replace this text with whatever you want.",
+    "footerText": "You can replace this text with whatever you want.",
+    "featureOne": {
+        "name": "Feature One",
+        "description": "You can replace this text with whatever you want."
+    },
+    "featureTwo": {
+        "name": "Feature Two",
+        "description": "You can replace this text with whatever you want."
+    },
+    "featureThree": {
+        "name": "Feature Three",
+        "description": "You can replace this text with whatever you want."
+    },
+    "navItems": [{
+        "name": "Home Page",
+        "link": "/"
+    }, {
+        "name": "My Account",
+        "link": "/dashboard/account"
+    }, {
+        "name": "Manage Servers",
+        "link": "/dashboard/settings"
+    }]
+}
